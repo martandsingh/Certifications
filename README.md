@@ -21,11 +21,11 @@
 
 
 ### Databricks Certified SQL Analyst Associate
-<a target='_blank' href='https://www.credly.com/badges/70b75ec3-050d-4a1c-9048-93d3f7f87b8b?source=linked_in_profile'>
-<img src="https://user-images.githubusercontent.com/32331579/170851794-fd2d941f-df70-4604-9345-bec591e48fd2.png
-" width="200"/> </a>
+<a target='_blank' href='https://credentials.databricks.com/e79440f0-09ea-4193-bd72-52e1f6fd12d5'>
+<img src="https://user-images.githubusercontent.com/32331579/170851794-fd2d941f-df70-4604-9345-bec591e48fd2.png" width="200"/> </a>
 
 
 ### Astronomer Certification for Apache Airflow Fundamentals
 <a target='_blank' href='https://www.credly.com/badges/f76a251c-14c2-4c68-9430-6b62897c1257?source=linked_in_profile'>
 <img src="https://user-images.githubusercontent.com/32331579/170851827-9cd1ad9c-5f93-4012-9306-1e40ab1a483c.png" width="200"/> </a>
+
